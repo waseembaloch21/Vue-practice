@@ -1,10 +1,12 @@
 <script setup>
-import CounterApp from './components/CounterApp.vue';
+import TodoApp from './components/TodoApp.vue';
+
+
 
 </script>
 
 <template>
-  <CounterApp/>
+<TodoApp/>
 </template>
 
 <style scoped>
